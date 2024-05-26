@@ -27,9 +27,13 @@ $bookableCell->routeActions();
 echo $calendar->show();
 //changesheys
 //changesmqkdnmwjdnwjbdfhw
+<<<<<<< Updated upstream
 //changes(2)
 //changes(3)
 //titessss
+=======
+//titesss
+>>>>>>> Stashed changes
 ?>
 </body>
 </html>
